@@ -4,7 +4,7 @@ echo "script pratice1 start"
 cd
 mkdir mydir
 # -mydir로 이동해서 file1.txt, file2.txt 파일생성
-cd mydr
+cd mydir
 touch file1.txt
 touch file2.txt
 # -file1.txt에는 Hello from file1이라는 문구 입력
